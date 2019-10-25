@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost/posts/easiest-way-to-encrypt-message/</loc>
+    <lastmod>2019-10-25T15:35:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/posts/</loc>
+    <lastmod>2019-10-25T15:35:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/</loc>
+    <lastmod>2019-10-25T15:35:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/tags/ablout/</loc>
+    <lastmod>2019-10-24T13:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/tags/animals/</loc>
+    <lastmod>2019-10-24T13:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/tags/chicago/</loc>
+    <lastmod>2019-10-24T13:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/page/about/</loc>
+    <lastmod>2019-10-24T13:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/page/</loc>
+    <lastmod>2019-10-24T13:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/tags/</loc>
+    <lastmod>2019-10-24T13:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/tags/zoos/</loc>
+    <lastmod>2019-10-24T13:12:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/categories/</loc>
+  </url>
+  
+</urlset>
